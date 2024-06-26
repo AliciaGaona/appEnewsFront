@@ -20,7 +20,7 @@ npm install -g @vue/cli
 npm install axios
 ```
 
-4.Levantar servidor vue
+4. Levantar servidor vue
 
 ```python
 npm run serve
