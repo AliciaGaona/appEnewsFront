@@ -26,6 +26,22 @@ npm install axios
 npm run serve
 ```
 
+## Iniciar proyecto 🚀
+
+1. Entrar a carpeta de proyecto
+
+```python
+ cd appenews-vue
+```
+2. Correr servidor
+   
+```python
+npm run serve
+```
+
+![image](https://github.com/AliciaGaona/appEnewsFront/assets/99162884/7ae8cced-5106-4151-98e5-0ff75c416213)
+
+
 
 ## BackEnd 🚀
 
