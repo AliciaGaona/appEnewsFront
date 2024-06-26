@@ -80,3 +80,10 @@ La importasción de axios no funcionaba por lo que se cambio de front
 
 Solución: pausar el servidor, cerrar todo y volverlo a abrir, de esta forma te aseguras que funcionará lo que instales.
 
+
+ ## Comentarios
+
+ Comencé realizando la prueba utilizando vue, pero me pase a terminar/realizar el frontEnd en react cuando tuve el error de la biblioteca axios, por los tiempos y para alcanzar a tener lista la prueba en tiempo y forma, después se pudo solucionar lo de la biblioteca axios, pero ya no me dio tiempo de realizar funcionalidad de filtrado aqui.
+
+ Funcionalidad de filtrado de tabla que se llena con datos que consume de API en [Solucion con react](https://github.com/AliciaGaona/appEnewsFrontwithReact)
+
