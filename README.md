@@ -1,6 +1,6 @@
-# appEnewsFront
+# FrontEnd con vue 
 
-## Instrucciones para inicializar y correr proyecto
+## Instrucciones ⚙️
 
 1. Instalar vue
    
@@ -27,17 +27,17 @@ npm run serve
 ```
 
 
-## BackEnd
+## BackEnd 🚀
 
 [proyecto BackEnd](https://github.com/AliciaGaona/appEnews)
 
- ## Tecnologias
+ ## Tecnologias 🚀
  
  Vue.js
 
- ## Bibiotecas/librerias
+ ## Bibiotecas/librerias 🔧
 
  - bootstrap
  - axios
 
- ## Referencias
+ ## Referencias 🔧
