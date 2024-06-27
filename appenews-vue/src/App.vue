@@ -24,15 +24,16 @@ import HelloWorld from './components/HelloWorld.vue'
 
 //se comenta poque no deja hacer la importacion de libreria para usarla
 
-//import axios from 'axios'
+import axios from 'axios'
 // Ejemplo de uso de Axios para hacer una solicitud GET
-//  axios.get('https://api.example.com/data')
-//   .then(response => {
-//   console.log("s")
-//    })
-//  .catch(error => {
-//     // Maneja el error aquí
-//    });
+axios.get('http://localhost:8000/getAll')
+   .then(response => {
+  console.log("s")
+    })
+  .catch(error => {
+     // Maneja el error aquí
+   });
+
 
 export default {
   data(){
