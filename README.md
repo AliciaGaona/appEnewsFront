@@ -66,19 +66,21 @@ npm run serve
 La importasción de axios no funcionaba por lo que se cambio de front
 
 ```python
- //import axios from 'axios'
+import axios from 'axios'
 // Ejemplo de uso de Axios para hacer una solicitud GET
-//  axios.get('https://api.example.com/data')
-//   .then(response => {
-//   console.log("s")
-//    })
-//  .catch(error => {
-//     // Maneja el error aquí
-//    });
+axios.get('http://localhost:8000/getAll')
+   .then(response => {
+  console.log("s")
+    })
+  .catch(error => {
+     // Maneja el error aquí
+   });
 
 ```
 
 Solución: pausar el servidor, cerrar todo y volverlo a abrir, de esta forma te aseguras que funcionará lo que instales.
+
+Estatus, resuelto, funcionó lo del servidor, ya consume API 
 
 
  ## Comentarios
